@@ -23,61 +23,61 @@
 
 ### Business Understanding
   
-**Goals :**
+- **Goals :**
   
-- Specify the key variables that are to serve as the model targets and whose related metrics are used determine the success of the project.
-- Identify the relevant data sources that the business has access to or needs to obtain.
+  - Specify the key variables that are to serve as the model targets and whose related metrics are used determine the success of the project.
+  - Identify the relevant data sources that the business has access to or needs to obtain.
 
-**There are two main tasks addressed in this stage :**
-- **Define objectives :** Work with your customer and other stakeholders to understand and identify the business problems. Formulate questions that define the business goals that the data science techniques can target.
-- **Identify data sources :** Find the relevant data that helps you answer the questions that define the objectives of the project.
+- **There are two main tasks addressed in this stage :**
+  - **Define objectives :** Work with your customer and other stakeholders to understand and identify the business problems. Formulate questions that define the business goals that the data science techniques can target.
+  - **Identify data sources :** Find the relevant data that helps you answer the questions that define the objectives of the project.
   
 ### Data acquisition and understanding
   
-**Goals :**
+- **Goals :**
   
-- Produce a clean, high-quality data set whose relationship to the target variables is understood. Locate the data set in the appropriate analytics environment so you are ready to model.
-- Develop a solution architecture of the data pipeline that refreshes and scores the data regularly.
+  - Produce a clean, high-quality data set whose relationship to the target variables is understood. Locate the data set in the appropriate analytics environment so you are ready to model.
+  - Develop a solution architecture of the data pipeline that refreshes and scores the data regularly.
   
-**There are three main tasks addressed in this stage :**
-- **Ingest the data** into the target analytic environment.
-- **Explore the data** to determine if the data quality is adequate to answer the question.
-- **Set up a data pipeline** to score new or regularly refreshed data.
+- **There are three main tasks addressed in this stage :**
+  - **Ingest the data** into the target analytic environment.
+  - **Explore the data** to determine if the data quality is adequate to answer the question.
+  - **Set up a data pipeline** to score new or regularly refreshed data.
   
 ### Modelling
   
-**Goals :**
+- **Goals :**
   
-- Determine the optimal data features for the machine-learning model.
-- Create an informative machine-learning model that predicts the target most accurately.
-- Create a machine-learning model that's suitable for production.
+  - Determine the optimal data features for the machine-learning model.
+  - Create an informative machine-learning model that predicts the target most accurately.
+  - Create a machine-learning model that's suitable for production.
   
-**There are three main tasks addressed in this stage :**
+- **There are three main tasks addressed in this stage :**
   
-- **Feature engineering :** Create data features from the raw data to facilitate model training.
-- **Model training :** Find the model that answers the question most accurately by comparing their success metrics.
-- Determine if your model is **suitable for production.**
+  - **Feature engineering :** Create data features from the raw data to facilitate model training.
+  - **Model training :** Find the model that answers the question most accurately by comparing their success metrics.
+  - Determine if your model is **suitable for production.**
   
 ### Deployment
   
-**Goal :**
+- **Goal :**
   
-- Deploy models with a data pipeline to a production or production-like environment for final user acceptance.
+  - Deploy models with a data pipeline to a production or production-like environment for final user acceptance.
 
-**The main task addressed in this stage :**
+- **The main task addressed in this stage :**
   
-- **Operationalize the model :** Deploy the model and pipeline to a production or production-like environment for application consumption.
+  - **Operationalize the model :** Deploy the model and pipeline to a production or production-like environment for application consumption.
   
 ### Customer acceptance
   
-**Goal :**
+- **Goal :**
   
-- **Finalize project deliverables :** Confirm that the pipeline, the model, and their deployment in a production environment satisfy the customer's objectives.
+  - **Finalize project deliverables :** Confirm that the pipeline, the model, and their deployment in a production environment satisfy the customer's objectives.
   
-**There are two main tasks addressed in this stage :**
+- **There are two main tasks addressed in this stage :**
   
-- **System validation :** Confirm that the deployed model and pipeline meet the customer's needs.
-- **Project hand-off :** Hand the project off to the entity that's going to run the system in production.
+  - **System validation :** Confirm that the deployed model and pipeline meet the customer's needs.
+  - **Project hand-off :** Hand the project off to the entity that's going to run the system in production.
 
 
 
