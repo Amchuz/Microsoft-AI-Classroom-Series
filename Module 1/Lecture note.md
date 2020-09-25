@@ -14,3 +14,6 @@
   <img src="https://github.com/Amchuz/Microsoft-AI-Classroom-Series/blob/master/Module%201/History2.png">
  
 </details>
+<br/><br/>
+
+# Data Science Life Cycle
