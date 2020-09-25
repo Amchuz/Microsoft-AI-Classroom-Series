@@ -78,6 +78,10 @@
   
   - **System validation :** Confirm that the deployed model and pipeline meet the customer's needs.
   - **Project hand-off :** Hand the project off to the entity that's going to run the system in production.
-
+<br/>
+  
+# Data Nomenclature
+<br/>
+<img src="https://github.com/Amchuz/Microsoft-AI-Classroom-Series/blob/master/Module%201/microsoft%20data.png">
 
 
