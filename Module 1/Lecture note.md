@@ -7,3 +7,9 @@
 - Speech Recognition
 - Decision-Making
 - Translation between languages etc.
+<br/>
+<details>
+  <summary>Want to go through some history ?</summary>
+  
+ 
+</details>
