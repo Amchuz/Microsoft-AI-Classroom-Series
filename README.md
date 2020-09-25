@@ -86,6 +86,8 @@ To make the most of your learning sessions and gain practical knowledge via lab 
       * K-means
     * Classification (Supervised)
       * Decision Tree
-    * Neural Network (Supervised)
+    * Neural Network (Mostly Supervised)
       * Artificial Neural Network
 * Responsible AI
+<br/>
+Before going into module 1, <a href="https://docs.microsoft.com/en-us/learn/modules/get-started-ai-fundamentals/1-introduction">read this</a> for better understanding.
