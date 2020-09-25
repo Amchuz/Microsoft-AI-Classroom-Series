@@ -90,5 +90,5 @@ To make the most of your learning sessions and gain practical knowledge via lab 
       * Artificial Neural Network
 * Responsible AI
 <br/>
-Before going into module 1, <a href="https://docs.microsoft.com/en-us/learn/modules/get-started-ai-fundamentals/1-introduction">read this</a> for better understanding.
+Before going into module 1, <a href="https://docs.microsoft.com/en-us/learn/modules/get-started-ai-fundamentals/1-introduction">read this</a> for better understanding. \
 You can access module 1 Lecture notes <a href="https://github.com/Amchuz/Microsoft-AI-Classroom-Series/blob/master/Module%201/Lecture%20note.md">here.</a>
