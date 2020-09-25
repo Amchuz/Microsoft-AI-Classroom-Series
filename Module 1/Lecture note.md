@@ -10,7 +10,7 @@
 <br/>
 <details>
   <summary>Want to go through some history ?</summary>
-  <img src="https://github.com/Amchuz/Microsoft-AI-Classroom-Series/blob/master/Module%201/History1.png>
-  <img src="https://github.com/Amchuz/Microsoft-AI-Classroom-Series/blob/master/Module%201/History2.png>
+  <img src="https://github.com/Amchuz/Microsoft-AI-Classroom-Series/blob/master/Module%201/History1.png">
+  <img src="https://github.com/Amchuz/Microsoft-AI-Classroom-Series/blob/master/Module%201/History2.png">
  
 </details>
