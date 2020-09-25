@@ -1,6 +1,7 @@
 # Microsoft-AI-Classroom-Series
 <br/><br/>
 
+<img src="https://github.com/Amchuz/Microsoft-AI-Classroom-Series/blob/master/Pics/front1.png">
 
 <br/><br/>
 **About the Program**
