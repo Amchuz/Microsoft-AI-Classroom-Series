@@ -59,4 +59,33 @@ To make the most of your learning sessions and gain practical knowledge via lab 
 <br />
 
 **Date :** Sept 24 2020 \
-**Time :** 08:00 PM - 10:30 PM | (GMT+05:30) Chennai, Kolkata, Mumbai, New Delh
+**Time :** 08:00 PM - 10:30 PM | (GMT+05:30) Chennai, Kolkata, Mumbai, New Delhi
+<br/><br/>
+### Lecture 1 : Tips for being a better Data Scienctist
+  
+**Speaker : Ganes Kesari | Co-founder & Cheif Decision Scientist, Gramener |** <a href="https://www.linkedin.com/in/gkesari/">LinkedIn</a>
+  
+* Tip 1: Sharpen your ability to handle data.
+* Tip 2: Techniques are more important than the tools.
+* Tip 3: Master the application of techniques.
+* Tip 4: Learn secondary skills to stand out from the crowd.
+<br/><br/>
+### Lecture 2 : Data Science Basics and Introduction to Microsoft AI Platform
+  
+**Speaker : Bhavesh Goswami | Founder & CEO, CloudThat |** <a href="https://www.linkedin.com/in/goswamibhavesh/">LinkedIn</a>
+<br/>
+* Data Science Life Cycle
+* Data Nomenclature
+* Types of Algorithms
+    * Supervised
+    * Unsupervised
+    * Semi-supervised
+* Algorithms
+    * Regression (Supervised)
+    * Clustering (Unsupervised)
+      * K-means
+    * Classification (Supervised)
+      * Decision Tree
+    * Neural Network (Supervised)
+      * Artificial Neural Network
+* Responsible AI
