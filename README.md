@@ -56,6 +56,7 @@ To make the most of your learning sessions and gain practical knowledge via lab 
 <br/><br/>
   
 ## Module 1 : Data Science Basics and Introduction to Microsoft AI Platform
-<br/>
-**Date :** Sept 24 2020
+<br />
+
+**Date :** Sept 24 2020 \
 **Time :** 08:00 PM - 10:30 PM | (GMT+05:30) Chennai, Kolkata, Mumbai, New Delh
