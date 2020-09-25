@@ -17,3 +17,12 @@
 <br/><br/>
 
 # Data Science Life Cycle
+<br/>
+<img src="https://github.com/Amchuz/Microsoft-AI-Classroom-Series/blob/master/Module%201/ds%20lifecycle.png">
+<br/>
+
+**Business Understanding**
+
+- Get familiar with the environment
+- Understand the problem
+- Brainstorm the solution
