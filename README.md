@@ -59,7 +59,7 @@ To make the most of your learning sessions and gain practical knowledge via lab 
 <br />
 
 **Date :** Sept 24 2020 \
-**Time :** 08:00 PM - 10:30 PM | (GMT+05:30) Chennai, Kolkata, Mumbai, New Delhi
+**Time slot :** 08:00 PM - 10:30 PM | (GMT+05:30) Chennai, Kolkata, Mumbai, New Delhi
 <br/><br/>
 ### Lecture 1 : Tips for being a better Data Scienctist
   
