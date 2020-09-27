@@ -102,4 +102,8 @@
   - Sometimes hand-picked.
   - Or 10-20% of data.
   
+### Model (Don't mind the ticks)
+  
+<img src="https://github.com/Amchuz/Microsoft-AI-Classroom-Series/blob/master/Module%201/Model.png">
+<br />
 
