@@ -83,5 +83,23 @@
 # Data Nomenclature
 <br/>
 <img src="https://github.com/Amchuz/Microsoft-AI-Classroom-Series/blob/master/Module%201/microsoft%20data.png">
-
+  
+- **Attriutes** : Theses are also known as variables. They define the characteristics of data.
+- **Target Attribute** : Also known as Label. It is the value we are trying to predict. The output of the model.
+  
+### Datasets will be divided into 3:
+  
+- **Training Set :** 
+  - Majority of data
+  - Given to algorithm to learn from it.
+  - Ususally 70-80% of data.
+    
+- **Validation Set :**
+  - Check whether the model does a good job or not.
+  - Usually 10-20% of data
+  
+- **Test Set :**
+  - Sometimes hand-picked.
+  - Or 10-20% of data.
+  
 
