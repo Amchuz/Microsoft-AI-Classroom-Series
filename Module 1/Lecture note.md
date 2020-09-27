@@ -107,3 +107,20 @@
 <img src="https://github.com/Amchuz/Microsoft-AI-Classroom-Series/blob/master/Module%201/Model.png">
 <br />
 
+# Types of Learning Algorithms
+  
+<img src="https://github.com/Amchuz/Microsoft-AI-Classroom-Series/blob/master/Module%201/algorithms.png">
+  
+## 1. Supervised Learning Algorithms
+  
+- Used to predict target attribute/label.
+- Needs dataset with target attribute values.
+- Supervised learning model can be further classified into :
+  - Classification Models :
+    - Type of problems where the outputs variable is a category such as red, blue or disease or undisease.
+  -Regression Models :
+    - Type of problems where output variable is a real number.
+  
+## 2. Unsupervised Learning Algorithms
+  
+- Dose not have dataset with target attribute values.
