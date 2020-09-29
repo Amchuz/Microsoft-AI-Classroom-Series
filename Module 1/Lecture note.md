@@ -9,7 +9,7 @@
 - Translation between languages etc.
 <br/>
 <details>
-  <summary>Want to go through some history ?</summary>
+  <summary><b>Want to go through some history ?</b></summary>
   <img src="https://github.com/Amchuz/Microsoft-AI-Classroom-Series/blob/master/Module%201/History1.png">
   <img src="https://github.com/Amchuz/Microsoft-AI-Classroom-Series/blob/master/Module%201/History2.png">
  
