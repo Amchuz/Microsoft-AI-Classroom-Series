@@ -164,3 +164,41 @@
   
 - First degree curve
 - y=mx+c where m and c are constants.
+  
+#### Advantages of Linear Regression :
+  
+- Simple to understand and implement.
+- Based on mathematics.
+- Usually much lower training time.
+- Continuous value prediction.
+  
+#### Challenges with Regression :
+  
+- Cannot handle complicated shapes.
+- Too simple for a lot of real world problems.
+  
+#### Some modern uses of Regression :
+  
+- Predicting demand.
+- Stock price prediction.
+- Credit assessment.
+  
+## 2. Classification 
+  
+- Classification is used for categorical response values, where the data can be separated into specific "classes".
+- Classification is used to predict discreet value output (ie. 0/1, yes/no)
+  
+### Two-class classification
+  
+- Predicts between two categories.
+- Simple answer
+  - Two choice questions
+  - Yes/No
+  - True/False
+  
+### Multi-class classification
+  
+- Predicts between several categories.
+- Coamplex answers
+  - Questons with multiple possible answers.
+  
