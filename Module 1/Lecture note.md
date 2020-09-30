@@ -241,8 +241,24 @@
   
 <img src="https://static.javatpoint.com/tutorial/machine-learning/images/k-means-clustering-algorithm-in-machine-learning.png">
   
-### Advantages of Clustering :
+#### Advantages of Clustering :
   
 - No need for classified input data.
 - No need to have information about attributes.
   
+#### Disadvantages of Clustering :
+  
+- Result can be different for two successive runs.
+- Hard to find good means.
+- Need to specify number of clusters.
+  
+#### Some modern uses of K-Means :
+  
+- E-commerce : Segmenting users based on purchases.
+- Credit : Segmenting loan applicants.
+- Supermarkets : Finding the right discounts to send to customers.
+- Document classification.
+  
+## 4. Neural Network
+  
+<img src="https://miro.medium.com/max/610/1*SJPacPhP4KDEB1AdhOFy_Q.png">
