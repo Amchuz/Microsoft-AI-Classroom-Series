@@ -124,3 +124,9 @@
 ## 2. Unsupervised Learning Algorithms
   
 - Dose not have dataset with target attribute values.
+- Used to find pattern among the input dataset.
+- Unsupervised Learning can be further grouped into :
+  - Clustering :
+    - A clustering problem is where you want to discover the inherent groupings in the data such as grouping customers by purchasing behaviour.
+  - Association : 
+    - An association rule learning problem is where you want to discover rules that describe large portions of your data. 
