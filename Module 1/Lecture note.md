@@ -202,3 +202,5 @@
 - Coamplex answers
   - Questons with multiple possible answers.
   
+<img src="https://github.com/Amchuz/Microsoft-AI-Classroom-Series/blob/master/Module%201/classification%20eg.png">
+  
