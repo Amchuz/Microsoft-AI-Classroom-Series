@@ -261,4 +261,24 @@
   
 ## 4. Neural Network
   
-<img src="https://miro.medium.com/max/610/1*SJPacPhP4KDEB1AdhOFy_Q.png">
+<img src="https://miro.medium.com/max/610/1*SJPacPhP4KDEB1AdhOFy_Q.png" width=400 height=350>
+
+- A simple neuron :
+  - Takes the inputs.
+  - Calculate the summation of the inputs.
+  - Compare it with the threshold being set during the learning stage.
+  
+<img src="https://www.researchgate.net/profile/Luyen_Bui/publication/279757450/figure/fig4/AS:284614334664740@1444868753578/A-sample-neural-network-in-which-a-rectangle-is-an-input-node-and-a-circle-is-a-neuron.png">
+  
+- Neurons consist of 3 basic components :
+  - Weights
+  -Thresholds
+  - Activation functions
+- Weighting Factors
+  - The values w1,w2,..wn are weightsto determine the strenght of the input vector x=[x1,x2..xn]T
+- Thresholds
+  - The node's internal threshold is the magnitude offset.
+- Activation function
+  - Performs a mathematical operation on the signal output.
+  - Most common are : linear,threshold,S shaped,tangent etc
+  - Choice of the function depends on the problem solved by the neural network.
