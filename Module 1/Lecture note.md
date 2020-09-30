@@ -204,3 +204,8 @@
   
 <img src="https://github.com/Amchuz/Microsoft-AI-Classroom-Series/blob/master/Module%201/classification%20eg.png">
   
+#### Decision Tree
+  
+- From the given example, the most relevant attribute becomes the root node and using information gain and entropy calculation the rest of the attributes are arranged in an order.
+  
+<img src="
