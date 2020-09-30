@@ -209,3 +209,32 @@
 - From the given example, the most relevant attribute becomes the root node and using information gain and entropy calculation the rest of the attributes are arranged in an order.
   
 <img src="https://github.com/Amchuz/Microsoft-AI-Classroom-Series/blob/master/Module%201/final%20DT.png">
+  
+**Advantages of Decision Tree :**
+  
+- White box, easy to interpret and easy to explain.
+- Useful to find the most important attribute.
+- They are not affected by outliers,less data cleaning required.
+- Once created, can provide fast classification.
+  
+**Challenges with Decision Tree :**
+  
+- Works better with discrete valued attributes compaired to continuous valued attributes.
+- Requires a lot of prior data.
+- Limited to one output without probability.
+- Not great at regression.
+  
+**Some modern uses of decision tree :**
+  
+- Astronomy : Filtering noise from Hubble Space Telescope.
+- Financial analysis : Asserting the attractiveness of stocks.
+- Power Systems : Power usage prediction.
+- Molecular biology : Analyzing amino acid sequences.
+  
+## 3. Clustering
+  
+### K-Means
+  
+- Select K random points in the n-dimensional space and find points closest to it.
+- Data points in the same cluster will be similar to each other.
+- Do it many times until least amount of average within cluster distance.
