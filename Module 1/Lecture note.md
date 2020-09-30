@@ -129,4 +129,38 @@
   - Clustering :
     - A clustering problem is where you want to discover the inherent groupings in the data such as grouping customers by purchasing behaviour.
   - Association : 
-    - An association rule learning problem is where you want to discover rules that describe large portions of your data. 
+    - An association rule learning problem is where you want to discover rules that describe large portions of your data, such as people that buy X also tend to buy Y.
+  
+## 3. Semi-Supervised  Learning Algorithms
+  
+- Semi-Supervised models are used in the cases where some of the input data is labelled and some of them are not. 
+- Example : Photo archive where only some of the images are labelled.
+<br />
+  
+# Algorithms
+  
+- Regression (Supervised)
+- Clustering (Unsupervised)
+  - K-Means
+- Classification (Supervised)
+  -Decision Trees
+- Neural Network
+<br />
+  
+## 1. Regression
+  
+- Derived from statistics.
+- Used in Machine Learning
+- Calculate values of dependent variable (Target) based on independent variable(s)
+- Example : Sale/growth forecast, financial portfolio prediction, credit standing of policy holders by insurance companies and real estate price prediction.
+  
+### Linear Regression
+  
+- Goal : Draw a straight line that best fits all the data points on the scattterplot.
+- Best fit line also known as regression line.
+- Regression line must have minimum distance from all data points (least amount of error)
+  
+<img src="https://nextjournal.com/data/QmfPuPp4V74FyvTTojMj6ix9T8Skj1ji4GhX5Pr6zK8w4N?filename=linear-regression.png&content-type=image/png">
+  
+- First degree curve
+- y=mx+c where m and c are constants.
