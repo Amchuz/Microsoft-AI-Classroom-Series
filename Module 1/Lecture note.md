@@ -238,3 +238,11 @@
 - Select K random points in the n-dimensional space and find points closest to it.
 - Data points in the same cluster will be similar to each other.
 - Do it many times until least amount of average within cluster distance.
+  
+<img src="https://static.javatpoint.com/tutorial/machine-learning/images/k-means-clustering-algorithm-in-machine-learning.png">
+  
+### Advantages of Clustering :
+  
+- No need for classified input data.
+- No need to have information about attributes.
+  
