@@ -113,7 +113,7 @@ You can access module 1 Lecture notes <a href="https://github.com/Amchuz/Microso
 * Visual Designer
   
 <br/>
-Before going into module 1, <a href="https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-machine-learning-service/">read this</a> for better understanding.<br />
+Before going into module 2, <a href="https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-machine-learning-service/">read this</a> for better understanding.<br />
 You can access module 2 Lecture notes <a href="https://github.com/Amchuz/Microsoft-AI-Classroom-Series/blob/master/Module%202/Lecture%20note.md">here.</a>
   
 <br/>
