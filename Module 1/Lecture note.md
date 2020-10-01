@@ -272,7 +272,7 @@
   
 - Neurons consist of 3 basic components :
   - Weights
-  -Thresholds
+  - Thresholds
   - Activation functions
 - Weighting Factors
   - The values w1,w2,..wn are weightsto determine the strenght of the input vector x=[x1,x2..xn]T
@@ -282,3 +282,11 @@
   - Performs a mathematical operation on the signal output.
   - Most common are : linear,threshold,S shaped,tangent etc
   - Choice of the function depends on the problem solved by the neural network.
+
+### Advantages of Neural Networks :
+  
+- Great with even continuous valued attributes.
+- Can have thousands of attributes.
+- No need to understand the domain/problem.
+- Usually higher accuracy compared to other classification techniques.
+- Lots of libraries or implementations available.
