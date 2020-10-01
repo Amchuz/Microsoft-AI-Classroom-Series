@@ -335,3 +335,17 @@
 - [ ] Clustering
 - [x] Regression
 - [ ] Classification
+  
+2. As a data scientist you are required to create a model that can evaluate if a loan can be given to a customer. You have data of past customer who were given a loan, and whether they paid or not. Which kind of algorithms will you use to create a model ?
+  
+- [x] Supervised
+- [ ] Unsupervised
+- [ ] Semi-supervised
+  
+3. You have a dataset from a radio taxi which the distance traveled, taxi id, and total fare. You need to generate a model that can predict fare for passenger. Which is the label for dataset ?
+  
+- [ ] Distance travelled
+- [ ] Taxi id
+- [x] Total fare
+  
+--------------------------------------------------------------------END--------------------------------------------------------------------------------
