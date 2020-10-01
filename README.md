@@ -101,8 +101,19 @@ You can access module 1 Lecture notes <a href="https://github.com/Amchuz/Microso
 **Date :** Sept 25 2020 \
 **Time slot :** 02:00 PM - 04:30 PM | (GMT+05:30) Chennai, Kolkata, Mumbai, New Delhi
   
-<br /><br/>
+<br />
   
 **Speaker : Sandeep Alur | Director Microsoft Technology Center |** [LinkedIn](https://www.linkedin.com/in/sandeepalur/)
 <br/>
   
+* Intro to the Azure AI/ML platform.
+* Intro to Azure Machine Learning Service.
+* No-code or low-code development environment.
+* Automated ML
+* Visual Designer
+  
+<br/>
+Before going into module 1, <a href="https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-machine-learning-service/">read this</a> for better understanding.<br />
+You can access module 2 Lecture notes <a href="https://github.com/Amchuz/Microsoft-AI-Classroom-Series/blob/master/Module%202/Lecture%20note.md">here.</a>
+  
+<br/>
