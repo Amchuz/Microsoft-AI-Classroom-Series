@@ -332,6 +332,6 @@
   
 1. A cement manufacturing company wants to predict how much cement should they manufacture on a given day. Which kind of data science problem is that ?
   
-[] Clustering
-[.] Regression
-[] Classification
+- [ ] Clustering
+- [x] Regression
+- [ ] Classification
