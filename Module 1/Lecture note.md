@@ -264,6 +264,7 @@
 <img src="https://miro.medium.com/max/610/1*SJPacPhP4KDEB1AdhOFy_Q.png" width=400 height=350>
 
 - A simple neuron :
+  
   - Takes the inputs.
   - Calculate the summation of the inputs.
   - Compare it with the threshold being set during the learning stage.
@@ -290,3 +291,47 @@
 - No need to understand the domain/problem.
 - Usually higher accuracy compared to other classification techniques.
 - Lots of libraries or implementations available.
+  
+### Challenges with Neural Networks :
+  
+- Black-box results. Not possible to check or understand results.
+- Training takes a long time.
+- Sometimes lack of domain knowledge exposed later.
+  
+### Some modern applications :
+  
+- Any kind of cognitive skills.
+- Predictive analysis
+  - Predict an individual's credit risk based on the information they gave on a credit application.
+  - Predicting late payments.
+- Click stream analysis
+  - Inferring users demographic informations, interests, browsing history, purchasing habbits and predicitng likely future actions.
+- Fraud detection
+  - Detecting frauduent online transactions.
+  
+# Responsible AI
+  
+<img src="https://github.com/Amchuz/Microsoft-AI-Classroom-Series/blob/master/Module%201/AI%20Challenges.png">
+  
+## Principles of Responsible AI :
+  
+- **Fairness**
+  - AI systems should treat all people fairly.
+- **Reliability & Safety**
+  - AI systems should perform reliably and safely.
+- **Privacy & Security**
+  - AI systems should be secure and respect privacy.
+- **Inclusiveness**
+  - AI systems should empower everyone and engage people.
+- **Transparency**
+  - AI systems should be understandable.
+- **Accountability**
+  - People should be accountable for AI systems.
+  
+# Sample Questions for AI-900
+  
+1. A cement manufacturing company wants to predict how much cement should they manufacture on a given day. Which kind of data science problem is that ?
+  
+[] Clustering
+[.] Regression
+[] Classification
