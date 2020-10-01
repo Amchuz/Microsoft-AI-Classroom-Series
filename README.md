@@ -92,3 +92,17 @@ To make the most of your learning sessions and gain practical knowledge via lab 
 <br/>
 Before going into module 1, <a href="https://docs.microsoft.com/en-us/learn/modules/get-started-ai-fundamentals/1-introduction">read this</a> for better understanding.<br />
 You can access module 1 Lecture notes <a href="https://github.com/Amchuz/Microsoft-AI-Classroom-Series/blob/master/Module%201/Lecture%20note.md">here.</a>
+  
+<br/>
+  
+## Module 2 : Data Science Basics and Introduction to Microsoft AI Platform
+<br />
+
+**Date :** Sept 25 2020 \
+**Time slot :** 02:00 PM - 04:30 PM | (GMT+05:30) Chennai, Kolkata, Mumbai, New Delhi
+  
+<br /><br/>
+  
+**Speaker : Sandeep Alur | Director Microsoft Technology Center |** [LinkedIn](https://www.linkedin.com/in/sandeepalur/)
+<br/>
+  
