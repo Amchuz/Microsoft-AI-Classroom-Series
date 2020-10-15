@@ -5,33 +5,59 @@
   
 ## 1. What is a Workspace?      
   
-Top level resource of Azure Machine Learning Sevice, it serves as a hub for building and deploying models. It stores the experiment objects that are required for each model we create.     
+Top level resource of Azure Machine Learning Sevice. It serves as a hub for building and deploying models. You can create a workspace in the Azure portal, or you can create and access it by using Python on an IDE of your choice. The workspace stores the experiment objects that are required for each model you create. Aditionally, it saves your computer targets. You can track training runs , and you can retrieve logs, metrics, outputs and scripts with ease. This information is important for model evaluation and selection.
   
 ## 2. What is a Datastore?     
   
-It is an abstraction over an Azure Storage account. Each workspace has a registered default datastore, still we can register another Azure blob or File storage contianers as a datastore.      
+It is an abstraction over an Azure Storage account. Each workspace has a registered default datastore, that you can use right away, but you can register another Azure blob or File storage contianers as a datastore.      
 
 ## 3. What is a Pipeline?   
   
 It is a tool to create and manage workflows during a datascience process (data manipulation, model trainig & testing, development). Each step of the process can run unattended in different compute targets, which makes it easier to allocate resources.      
 ![pipeline](https://user-images.githubusercontent.com/26376075/94691557-13895880-034f-11eb-9d87-c46e5ee1120d.png)       
-
--  Introduction to Azure Machine Learning Service       
   
-    -  Model Management
-    -  Model Training
-    -  Model Selection
-    -  Hyper-paramete Tuning
-    -  Feature Selection
-    -  Model Evaluation
-<!--
+  
 ![what-is-azure-ml-service](https://user-images.githubusercontent.com/26376075/94708485-4b4dcb80-0362-11eb-8890-1dee9bb824a0.png)
-
+  
+  
+## Introduction to Azure Machine Learning Service
+   
 ![ml-serice](https://user-images.githubusercontent.com/26376075/94708572-61f42280-0362-11eb-9531-9d8f943a23f3.png)
+  
+### Azure Machine Learning Services
+
+  -  Model Management
+  -  Model Training
+  -  Model Selection
+  -  Hyper-paramete Tuning
+  -  Feature Selection
+  -  Model Evaluation
+    
+ #### Selecting Development Environment :
 
 ![development-environment](https://user-images.githubusercontent.com/26376075/94709555-6ff67300-0363-11eb-8dba-96140c25e812.png)
 
-1. ![jupyter-notebook](https://user-images.githubusercontent.com/26376075/94712172-b8636000-0366-11eb-8bd2-6fe95bf89a26.png)
+**Popular IDEs**
+
+- Jupyter Notebooks
+  
+  - Open Source
+  - Originally written for Python and called IPython
+  - Realtime execution and rendering
+  - Many languages supported
+  - Supports Spark API (pySpark, SparkR)
+  - Can share via GitHub, JupyterHub and Azure
+  - Built-in viewer support by GitHub 
+  - Over 75 languages supported
+  - The name is to emphasisze multi-language support
+    - **JU**lia-**PY**thon-**te**-**R**
+  
+  
+#### Demo : Setting up Conda and Jupyter Notebook 
+  
+Anaconda is an intergrated Python Data Science Development evenviroment which can be downloaded from "Anaconda.com". It is available for all three OS MacOS, Linux as well as Windows. The beauty of the anaconda is, when it is downloaded and installed, it comes in-built with development evenvironments like Jupyter and Spyder as well as it also brings in Machine Learning libraries like NumPy, SciPy, pandas, Scikit-learn, Dask, Numba, TensorFlow, and Theano so you don't have to spend any additional effort in installing these libraries. When you download it and install the executable, it will install a software called Anaconda Navigator in your system. 
+  
+![jupyter-notebook](https://user-images.githubusercontent.com/26376075/94712172-b8636000-0366-11eb-8bd2-6fe95bf89a26.png)
   
 2. ![azure-notebook](https://user-images.githubusercontent.com/26376075/94712472-2871e600-0367-11eb-8893-263306d9b59a.png)
 ![azure-notebook1](https://user-images.githubusercontent.com/26376075/94712699-75ee5300-0367-11eb-8150-275cd6e3881a.png)
